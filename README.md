@@ -1,5 +1,5 @@
 # Wordcloud
-Script in R for genereting worldcloud from txt file using wordcloud library. Working on Visual Studio to check how R Tools works.<br/>
+Script in R for genereting wordcloud from txt file using wordcloud library. Working on Visual Studio to check how R Tools works.<br/>
 <br/>
 file.txt contains example text to use in worldcloud<br/>
 <br/>
