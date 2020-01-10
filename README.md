@@ -1,7 +1,7 @@
 # Wordcloud
 Script in R for genereting wordcloud from txt file using wordcloud library. Working on Visual Studio to check how R Tools works.<br/>
 <br/>
-file.txt contains example text to use in worldcloud<br/>
+file.txt contains example text to use in wordcloud<br/>
 <br/>
 In console:<br/>
 source('PATH_TO_FILE')<br/>
