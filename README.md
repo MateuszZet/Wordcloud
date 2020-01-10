@@ -7,3 +7,4 @@ In console:<br/>
 source('PATH_TO_FILE')<br/>
 filePath <- "PATH_TO_TXT_FILE"<br/>
 res<-rquery.wordcloud(filePath)<br/>
+![image](https://user-images.githubusercontent.com/18172067/72167796-22e50200-33cc-11ea-93c8-474deb50da2f.png)
